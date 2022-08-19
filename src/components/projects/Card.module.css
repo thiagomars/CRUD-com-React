@@ -1,0 +1,60 @@
+.composition{
+    width: 90%;
+    margin: 2% 5%;
+}
+
+.flutuar{
+    height: 50vh;
+    overflow-y: scroll;
+}
+
+.flutuar::-webkit-scrollbar {
+    background-color: #F4F8F9;
+    width: 10px;
+}
+.flutuar::-webkit-scrollbar-button {
+    border: none;
+}
+.flutuar::-webkit-scrollbar-thumb {
+    border-radius: 999px;
+    background: #695AB9;
+}
+.flutuar::-webkit-scrollbar-track {
+    background: #F4F8F9;
+}
+.flutuar::-webkit-scrollbar-track-piece {
+    background: #F4F8F9;
+    box-shadow: 0 0 6px #e0e6e7;
+    border-radius: 99px;
+}
+
+.dados{
+    max-height: 50vh;
+    padding: 0 1%;
+}
+
+
+
+.box_dados{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.box_dados{
+    padding: 2% 1%;
+    margin: 2% 0;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgb(219, 219, 219);
+    border-radius: 8px;
+}
+
+.vazio{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e0e5e7;
+    font-size: 3em;
+}

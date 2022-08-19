@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Roboto', Arial;
+  background-color: #F4F8F9;
+  color: #3a3a3a;
+}
+
+h1{
+  font-size: 3em;
+  font-weight: 400;
+  margin-left: -5px;
+}

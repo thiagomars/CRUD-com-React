@@ -1,0 +1,9 @@
+.img {
+    width: 24px;
+    cursor: pointer;
+}
+
+.button{
+    background-color: white;
+    border: none;
+}

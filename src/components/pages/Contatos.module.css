@@ -1,0 +1,23 @@
+.container {
+    padding: 5% 5% 5px 5%;
+    box-shadow: 0 0 2px #695AB9;
+}
+
+.menu{
+    margin-top: 2%;
+}
+
+.btn{
+    font-size: 0.9em;
+    margin-right:2%;
+    font-weight: 600;
+    text-decoration: none;
+    color: #555555;
+    background-color: #F4F8F9;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: #695AB9;
+}

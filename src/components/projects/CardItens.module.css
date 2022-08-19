@@ -1,0 +1,73 @@
+.dados{
+    max-height: 50vh;
+    padding: 0 1%;
+}
+
+.box_dados{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1% 1%;
+    margin: 2% 0;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgb(219, 219, 219);
+    border-radius: 8px;
+}
+
+.content_nome{
+    width: 20em;
+    word-wrap: break-word;
+    text-align: left;
+    padding: 1%;
+}
+
+.content_telefone{
+    text-align: left;
+    padding: 1%;
+    width: 120px;
+}
+
+.content_email{
+    word-wrap: break-word;
+    text-align: left;
+    padding: 1%;
+    width: 20em;
+}
+
+.content_status{
+    text-align: left;
+    padding: 1%;
+}
+
+.content_data{
+    width: 150px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+}
+
+.editar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.content_edit{
+    width: 24px;
+    width: max-content;
+    margin: 5%;
+}
+
+.content h1, .content_edit h1{
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+span{
+    font-size: 0.9em;
+    font-weight: 300;
+    color: #3a3a3a; 
+}

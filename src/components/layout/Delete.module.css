@@ -1,0 +1,13 @@
+.img {
+    width: 24px;
+    cursor: pointer;
+}
+
+.apagar{
+    display: none;
+}
+
+.button{
+    background-color: white;
+    border: none;
+}

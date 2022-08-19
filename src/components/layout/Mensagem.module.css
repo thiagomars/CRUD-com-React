@@ -1,0 +1,23 @@
+.mensagem{
+    width: max-content;
+    padding: 1em 2em;
+    border-radius: 9999px;
+    box-shadow: 0 0 10px #a1a1a1;
+    margin-bottom: 1em;
+    position: absolute;
+    top: 10vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sucesso{
+    background-color: #14da24;
+}
+
+.erro{
+    background-color: #da1414;
+}
+
+.mensagem p{
+    color: white;
+}

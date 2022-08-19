@@ -1,0 +1,11 @@
+.container_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100vw;
+}
+
+.title{
+    margin: 2% 0;
+}
