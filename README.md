@@ -1,6 +1,11 @@
-# Sobre o projeto
+# Sobre o sistema
 
-Este projeto foi criado utilizando ReactJS, CSS3 e um "banco de dados" com JSON. Para realizar todos os tipos de ações com o JSON (CRUD), foi utilizado uma API online e para a mesma foi utilizado o AXIOS.  
+Este projeto foi criado utilizando ReactJS, CSS3 e um "banco de dados" com JSON. Para realizar todos os tipos de ações com o JSON (CRUD), foi utilizado uma API online e para a mesma foi utilizado o AXIOS.
+
+### As imagens abaixo mostram a interface do sistema Web
+
+!{
+[Captura de Tela da Interface do Sistema CRUD]("screen.jpeg")
 
 # Getting Started with Create React App
 
