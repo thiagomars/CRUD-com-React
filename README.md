@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+Este projeto foi criado utilizando ReactJS, CSS3 e um "banco de dados" com JSON. Para realizar todos os tipos de ações com o JSON (CRUD), foi utilizado uma API online e para a mesma foi utilizado o AXIOS.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
