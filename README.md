@@ -5,7 +5,7 @@ Este projeto foi criado utilizando ReactJS, CSS3 e um "banco de dados" com JSON.
 ### As imagens abaixo mostram a interface do sistema Web
 
 !{
-[Captura de Tela da Interface do Sistema CRUD]("screen.jpeg")
+[Captura de Tela da Interface do Sistema CRUD]("./screen.jpeg")
 
 # Getting Started with Create React App
 
