@@ -4,6 +4,8 @@ Este projeto foi criado utilizando ReactJS e Tailwind. Para realizar todos os ti
 
 ### As imagens abaixo mostram a interface do sistema Web
 
-![Captura de Tela da Interface do Sistema CRUD](imgs/captura1.png)
-![Captura de Tela da Interface do Sistema CRUD](imgs/captura1.png)
-![Captura de Tela da Interface do Sistema CRUD](imgs/captura1.png)
+![Captura de Tela da Interface do Sistema CRUD](imgs/Captura1.png)
+![Captura de Tela da Interface do Sistema CRUD](imgs/Captura2.png)
+![Captura de Tela da Interface do Sistema CRUD](imgs/Captura3.png)
+![Captura de Tela da Interface do Sistema CRUD](imgs/Captura4.png)
+![Captura de Tela da Interface do Sistema CRUD](imgs/Captura5.png)
